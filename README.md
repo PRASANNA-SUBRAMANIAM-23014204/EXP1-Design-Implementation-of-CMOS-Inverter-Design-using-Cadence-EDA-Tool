@@ -41,7 +41,7 @@ ii)	Create Schematic Cell view.
 •	Add the required components from the libraries and make the connections.
 	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
 	Click on browse. This opens the library browser
-	Now select the appropriate library for components like 
+	Now select the appropriate library for components like  
 	Gpdk45 ------------------------nmos1v, pmos1v
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
